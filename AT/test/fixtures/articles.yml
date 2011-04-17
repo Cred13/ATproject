@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+ id: 1
+ title: Article 1
+ body: "Body text body text body text body text body text body text body text body text body text body text."
+#
+two:
+ id: 2
+ title: Article 2
+ body: "Body text body text body text body text body text body text body text body text body text body text."
